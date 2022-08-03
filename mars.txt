@@ -1,0 +1,2 @@
+Hey this is the tutorial to integrate with the github using the git tool
+some stuff to be added to recheck
